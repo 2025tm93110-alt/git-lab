@@ -1,1 +1,2 @@
-This is the lab capsule tutorial work from the faculty executing parallely
+This is the lab capsule tutorial work from the faculty executing parallely.
+will try to merge with master from feature branch
